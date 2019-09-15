@@ -1,0 +1,7 @@
+export const FETCH_USER = 'FETCH_USER';
+export const SET_USER_LOADING = 'SET_USER_LOADING';
+export const SET_USER_ERROR = 'SET_USER_ERROR';
+export const SET_USER_SUCCESS = 'SET_USER_SUCCESS';
+export const GET_USER_LOADING = 'GET_USER_LOADING';
+export const GET_USER_ERROR = 'GET_USER_ERROR';
+export const GET_USER = 'GET_USER';
